@@ -13,4 +13,4 @@ You can tune parameters like threshold and dilation iterations and may morpholog
 
 
 
-## I have tried to keep the code as simple as possible. The code has less than 20 lines. It uses simple mathematical funcitons to achieve this result.
+## I have tried to keep the code as simple as possible. The code has less than 20 lines. It uses simple mathematical funcitons of OpenCv to achieve this result.
