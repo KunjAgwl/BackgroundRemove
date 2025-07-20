@@ -9,3 +9,5 @@ Using these filters we extract the edges where sudden change is happening and th
 
 <img width="618" height="443" alt="bird" src="https://github.com/user-attachments/assets/8366b0b4-0f0a-4e79-82ac-a43fa8116f92" />
 You can tune parameters like threshold and dilation iterations and may morphology funcitions of opencv to get even better results.
+
+I have tried to keep the code as simple as possible. The code has less than 20 lines. It uses simple mathematical funcitons to achieve this result.
